@@ -1,0 +1,16 @@
+.small-breadcrumb {
+  font-size: 0.85rem;
+  color: #6c757d;
+}
+
+.small-breadcrumb a {
+  color: #0d6efd;
+}
+
+.small-breadcrumb span {
+  font-size: 0.85rem;
+}
+
+.small-breadcrumb i {
+  stroke-width: 2px;
+}
